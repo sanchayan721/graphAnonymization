@@ -13,6 +13,6 @@ Here in this project we have discovered two more algorithms which stands in-betw
 
 The methods and the theoretical part is illustrated in the Jupyter Notebook and hosted on github pages. The algorithms are implemented as in the python modules in this repository.
 
-Link to view the hosted notebook file is below:
+# Jupyter Notebook
 
 <a href="https://sanchayan721.github.io/graphAnonymization/" title="Link to index">![Load Index](Assets/NotebookScreenshot.png "Click to Read More")</a>
