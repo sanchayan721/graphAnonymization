@@ -9,7 +9,7 @@ There are multiple algorithms to anonymize graphs a.k.a. networks namely, greedy
 Here in this project we have discovered two more algorithms which stands in-between and <strong>almost 1000 times faster than dynamic programming and while keeping the accuracy intact.</strong>
 
 
-<img src="/Assets/dp_time_chart.svg" alt="drawing" width="500"/>
+<img src="Assets/dp_time_chart_readme.svg" alt="drawing" width="500"/>
 
 The methods and the theoretical part is illustrated in the Jupyter Notebook and hosted on github pages. The algorithms are implemented as in the python modules in this repository.
 
