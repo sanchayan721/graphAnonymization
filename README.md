@@ -15,4 +15,4 @@ The methods and the theoretical part is illustrated in the Jupyter Notebook and 
 
 # Jupyter Notebook
 
-<a href="https://sanchayan721.github.io/graphAnonymization/" title="Link to index">![Load Index](Assets/NotebookScreenshot.png "Click to Read More")</a>
+<a href="https://sanchayan721.github.io/graphDataAnonymization/" title="Link to index">![Load Index](Assets/NotebookScreenshot.png "Click to Read More")</a>
